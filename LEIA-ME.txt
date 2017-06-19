@@ -1,0 +1,7 @@
+Para executar a partir do interpretador Python:
+- Instalar Python 3.3 e Pygame
+- Colocar todos os arquivos .py da pasta Codigo fonte e todos os arquivos da pasta Arquivos no mesmo diretório
+- Executar a partir de Pytowe_Defense.py
+
+Para executar o .exe
+- Abrir a pasta Executavel e clicar no arquivo .exe
